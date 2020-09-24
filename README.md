@@ -100,5 +100,11 @@ npm run build:web 或者 sudo npm run build:web
 微信小程序：https://github.com/peizhou/ppshop-miniprogram  
 
 - 本项目会持续更新和维护，喜欢别忘了 Star，有问题可通过微信，谢谢您的关注。
-<img width="200" src="https://img.mybei.cn/contact.jpeg"/>
+
+
+- 本项目会持续更新和维护，喜欢别忘了 Star，有问题可通过微信，谢谢您的关注。
+- 本项目会持续更新和维护，喜欢别忘了 Star，有问题可通过微信，谢谢您的关注。
+
+微信号： mybei94 
+
 
